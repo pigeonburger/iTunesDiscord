@@ -1,6 +1,8 @@
 # iTunes/Apple Music Rich Presence for Discord
 iTunes Rich Presence for Discord made in Python (for Windows)
 
+![image](https://user-images.githubusercontent.com/70826123/128997059-5b6f7c8f-9f9d-4075-a22a-ee5019a0a3eb.png)
+
 This is an application that lets you have a personalized Discord status based on what you're listening to on iTunes.
 
 The status will show the song name, artist and the amount of time left in the song. Additionally, an image with a "play" or "paused" button will be shown in case the track is playing or paused.
@@ -26,4 +28,6 @@ This application is in its early stages, so please open an issue here if you fin
 
 # Example screenshots:
 
-![image](https://user-images.githubusercontent.com/70826123/128956172-a270497d-0867-4f3e-b140-b3423c14dd6c.png)
+![image](https://user-images.githubusercontent.com/70826123/128996760-50e23e71-a573-4cc7-ba78-1d378375b3dd.png)
+ ![image](https://user-images.githubusercontent.com/70826123/128956172-a270497d-0867-4f3e-b140-b3423c14dd6c.png)
+
