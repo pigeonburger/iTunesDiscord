@@ -18,8 +18,8 @@ The status will show the song name, artist and the amount of time left in the so
 # Usage:
 - [Download the latest version](https://github.com/pigeonburger/iTunesDiscord/releases/latest) of the application.
 - Make sure Discord is open (app will return an error if not open)
-- Double click the `exe` just just downloaded.
-- iTunes will open, you can start playing music and watch it show on your Discord profile!
+- Double click the `exe` you just downloaded.
+- iTunes will open, you can start playing music and watch it display on your Discord profile!
 
 # Issues:
 This application is in its early stages, so please open an issue here if you find anything wrong with it!
